@@ -1,6 +1,4 @@
 # IITK_Sem_course_Recommender
-Certainly! When describing this project on your resume, you can highlight various aspects to showcase your skills and accomplishments. Here are key points you can include:
-
 1. **Project Overview:**
    - Successfully developed a content-based course recommender system for IIT Kanpur
    - Applied web scraping techniques to gather data on courses and their content from the college website.
